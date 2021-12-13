@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Fonts/Text.spritefont</SourceFile>
+  <SourceTime>2020-01-19T18:00:22.4076208-07:00</SourceTime>
+  <DestFile>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/bin/DesktopGL/Fonts/Text.xnb</DestFile>
+  <DestTime>2020-01-19T19:09:21.1834747-07:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2019-09-15T17:17:13.8435437-06:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2019-09-15T17:17:13.8435437-06:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

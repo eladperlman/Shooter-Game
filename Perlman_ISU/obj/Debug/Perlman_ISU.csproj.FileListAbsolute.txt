@@ -1,0 +1,121 @@
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csprojAssemblyReference.cache
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe.config
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.pdb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Animation2D.dll
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.dll
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.xml
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csproj.CopyComplete
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.exe
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.pdb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\brick bg.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ghost.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\black.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet enemy.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet player.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\enemy shoot.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ammo box.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\medkit.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\base .xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\grenade.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\explode2.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\grenade explosion.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\shield.xnb
+C:\Users\ep321\source\repos\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\boss isu.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\explode2.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\grenade explosion.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ammo box.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\base .xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\black.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\boss isu.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\brick bg.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet enemy.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet player.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\enemy shoot.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ghost.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\grenade.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\medkit.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\shield.xnb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe.config
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.pdb
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\Animation2D.dll
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.dll
+E:\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.xml
+E:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csprojAssemblyReference.cache
+E:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csproj.CopyComplete
+E:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.exe
+E:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.pdb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\explode2.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\grenade explosion.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ammo box.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\base .xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\black.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\boss isu.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\brick bg.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet enemy.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet player.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\enemy shoot.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ghost.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\grenade.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\medkit.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\shield.xnb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe.config
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.pdb
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\Animation2D.dll
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.dll
+D:\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.xml
+D:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csprojResolveAssemblyReference.cache
+D:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csproj.CoreCompileInputs.cache
+D:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.exe
+D:\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.pdb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\explode2.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\grenade explosion.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ammo box.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\base .xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\black.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\boss isu.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\brick bg.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet enemy.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\bullet player.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\enemy shoot.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\ghost.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\grenade.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\medkit.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\shield.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe.config
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.exe
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Perlman_ISU.pdb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Animation2D.dll
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.dll
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\MonoGame.Framework.xml
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csproj.CopyComplete
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.exe
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.pdb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csprojAssemblyReference.cache
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\shield amount.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\shield bar.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Animations\bg isu.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\back button.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\exit button.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\instructions button.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\play button.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\instructions.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\menu screen.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Fonts\Text.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player blue.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player red.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\player selection.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Images\Sprites\lose screen.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Sounds\Background\bg music isu.ogg
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Sounds\Background\bg music isu.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Sounds\Background\duel of fates.ogg
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Sounds\Background\duel of fates.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Sounds\Effects\Fight sound effect.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\bin\Debug\Content\Sounds\Effects\enemy gunshot.xnb
+C:\Users\ep321\source\Perlman_ISU\Perlman_ISU\obj\Debug\Perlman_ISU.csproj.CoreCompileInputs.cache

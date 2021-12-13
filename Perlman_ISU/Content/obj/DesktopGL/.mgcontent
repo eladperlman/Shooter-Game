@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/bullet enemy.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/bullet player.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/exit button.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/grenade explosion.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/instructions button.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/play button.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/../../../../Downloads/player.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Fonts/Text.spritefont</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Animations/bg isu.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Animations/explode2.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/ammo box.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/back button.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/base .png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/black.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/boss isu.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/brick bg.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/enemy shoot.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/ghost.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/grenade.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/instructions.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/lose screen.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/medkit.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/menu screen.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/player blue.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/player red.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/player selection.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/shield amount.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/shield bar.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Images/Sprites/shield.png</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Sounds/Background/bg music isu.mp3</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Sounds/Background/duel of fates.mp3</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Sounds/Effects/enemy gunshot.wav</File>
+    <File>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Sounds/Effects/Fight sound effect.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/Sprites/bullet enemy.png</File>
+    <File>Images/Sprites/bullet player.png</File>
+    <File>Images/Sprites/exit button.png</File>
+    <File>Images/Animations/grenade explosion.png</File>
+    <File>Images/Sprites/instructions button.png</File>
+    <File>Images/Sprites/play button.png</File>
+    <File>Images/Sprites/player.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

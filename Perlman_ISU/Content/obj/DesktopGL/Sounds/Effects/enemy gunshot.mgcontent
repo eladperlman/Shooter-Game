@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Sounds/Effects/enemy gunshot.wav</SourceFile>
+  <SourceTime>2020-01-02T02:55:08.1062578-07:00</SourceTime>
+  <DestFile>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/bin/DesktopGL/Sounds/Effects/enemy gunshot.xnb</DestFile>
+  <DestTime>2020-01-19T19:09:31.6415524-07:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2019-09-15T17:17:13.8435437-06:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2019-09-15T17:17:13.8435437-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

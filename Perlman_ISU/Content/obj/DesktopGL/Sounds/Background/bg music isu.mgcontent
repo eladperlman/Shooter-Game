@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/Sounds/Background/bg music isu.mp3</SourceFile>
+  <SourceTime>2020-01-19T18:40:11.4366236-07:00</SourceTime>
+  <DestFile>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/bin/DesktopGL/Sounds/Background/bg music isu.xnb</DestFile>
+  <DestTime>2020-01-19T19:09:27.7210002-07:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2019-09-15T17:17:13.8435437-06:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2019-09-15T17:17:13.8435437-06:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/ep321/source/Perlman_ISU/Perlman_ISU/Content/bin/DesktopGL/Sounds/Background/bg music isu.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
